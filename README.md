@@ -1,0 +1,2 @@
+# Struts2AnnotationConfigDemo
+使用Struts2 Annotation Config方式建置Web Application專案
